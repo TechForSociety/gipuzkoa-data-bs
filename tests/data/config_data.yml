@@ -6,6 +6,7 @@ languages:
   - en
   - es
   - fr
+  - eu
 
 # Where the data gets built.
 site_dir: _build
